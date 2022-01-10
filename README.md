@@ -2,7 +2,6 @@
 **2018-2019 Data Structures & Algorithms (*Python*), 9th Grade.**<br/>
 *Selected Projects & Code.*<br/>
 Major Projects: Red-Black Tree, Edmonds-Karp<br/>
-Assignments: Eight Queens,
 
 **2019-2020 Structure & Interpretation of Computer Programs (*Scheme Lisp*), 10th Grade.**<br/>
 *Selected Projects.*<br/>
