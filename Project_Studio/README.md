@@ -1,6 +1,6 @@
 # Project Studio
 
-WEB SCRAPING & ANALYSIS CODE FILES
+**CODE FILES**
 
 "WSJ Web Scraper.py" & "NYT Web Scraper.py"
 Scraped their respective websites (the API for NYT or the direct website for WSJ) for a complete list of headlines from the winter of 2020-2021, assigned each headline a valence, and exported the data into "WSJ.txt" and "NYT.txt" respectively. WARNING: RUNNING THESE FILES WILL RE-EXPORT THE DATA INTO FILES NAMED NYT.txt or WSJ.txt. If your files NYT.txt or WSJ.txt already contain the full data set, it will write the headlines again into the file and you will have duplicates.
@@ -11,7 +11,7 @@ For their respective newspaper text files (NYT.txt or WSJ.txt), this will sort h
 "WSJ Distributions.py" & "NYT Distributions.py"
 This contains the appropriate code for copying the pair of valence and date data for each headline containing some specified word into a file named "newspaper_word.txt" (ex. "NYT_biden.txt" or "WSJ_covid.txt"). Copies all headlines from a newspaper with a word in the following format: Each headline takes up one line, with date first (counted not by date as before, but ascending from October 1, which is "Day 1") and valence second, separated by a tab. Note that the actual headline is not copied over, only date valence pairs. The results of this code can be found in the "PS Distribution Analyses Text Files". WARNING: RUNNING THESE FILES WILL RE-EXPORT THE DATA INTO FILES. This information is then used to make the R graphs.
 
-TEXT & IMAGE FILES CONTAINING DATA
+**DATA FILES (TEXT & IMAGE)**
 
 "NYT.txt"
 Contains all headlines from the New York Times from October to January (inclusive) scraped from the NYT API. Format is as follows. Each headline takes up 3 lines in the file, first line is headline, second line is date, third line is valence value.
