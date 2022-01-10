@@ -16,11 +16,10 @@ Documentation in Folder.
 
 **2021-2022 Computer Systems Design (*HDL & Python*), 12th Grade.**<br/>
 *Complete Code.*<br/>
-<u>Major Projects:</u> ALU.hdl (02), PC.hdl (03), CPU.hdl (05), Computer.hdl (05)<br/>
-Note: Projects cannot be run without software & setup found at https://www.nand2tetris.org/software.<br/>
-Folder 01: Basic Boolean Gates<br/>
-Folder 02: ALU<br/>
-Folder 03: Memory & PC<br/>
-Folder 04: Machine Language Practice<br/>
-Folder 05: CPU & Computer<br/>
-Other Folders TBD.
+Major Projects: ALU.hdl (02), PC.hdl (03), CPU.hdl (05), Computer.hdl (05)<br/>
+01 Basic Boolean Gates<br/>
+02 ALU<br/>
+03 Memory & PC<br/>
+04 Machine Language Practice<br/>
+05 CPU & Computer<br/>
+Projects cannot be run without software & setup found at https://www.nand2tetris.org/software.<br/>
