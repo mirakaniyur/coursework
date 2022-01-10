@@ -17,7 +17,7 @@ Documentation in Folder.
 
 **2021-2022 Computer Systems Design (*HDL & Python*), 12th Grade.**<br/>
 *Complete Code.*<br/>
-Major Projects: ALU.hdl (02), PC.hdl (03), CPU.hdl (05), Computer.hdl (05)
+Major Projects: ALU.hdl (02), PC.hdl (03), CPU.hdl (05), Computer.hdl (05)<br/>
 Folder 01: Basic Boolean Gates<br/>
 Folder 02: ALU<br/>
 Folder 03: Memory & PC<br/>
