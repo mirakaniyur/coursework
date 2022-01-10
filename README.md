@@ -1,5 +1,5 @@
 # High School CS Coursework
-Data Structures & Algorithms, 9th Grade (Python), 2018-2019. 
+Data Structures & Algorithms (Python), 9th Grade, 2018-2019. 
 
 Structure & Interpretation of Computer Programs (Scheme Lisp), 10th Grade, 2019-2020. 
 
