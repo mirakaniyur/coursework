@@ -46,32 +46,6 @@ def BFS(Edges, caps, s, t, F, P, M, BFSq):
                     return M[t], P
     return 0, P
 
-# Students is a dictionary where the values are a list of preferred colleges
-# College Caps links Colleges to their capacities
-def Bipartite_Matching(Students, CollegeCaps):
-    Vertices={}
-    Vertices[0]="source"
-    x=1
-    for i in Students:
-        Vertices[x]=Students
-        x=x+1
-    for i in CollegeCaps:
-        Vertices[x]=CollegeCaps
-        x=x+1
-    Vertices[x]="sink"
-    E=[]
-    Temp=[Vertices[i] for i in Students]
-    E.append(Temp)
-    i=1
-    for m in range(len(Students)):
-        E.append(Vertices[Students[Vertices[i]]])
-        i=i+1
-    for m in range(len(CollegeCaps)):
-        E.append([x])
-    E.append([])
-    C=[[0 for i in range(len(Vertices))] for o in range(len(Vertices))]
-    #for i in Students:
-
 
 E2 =[[1,2],[3,4],[4],[5],[5],[]]
 C2=[[0,5,5,0,0,0],[0,0,0,5,2,0],[0,0,0,0,2,0],[0,0,0,0,0,5],[0,0,0,0,0,3],[0,0,0,0,0,0]]
