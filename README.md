@@ -1,4 +1,4 @@
-# High School CS Coursework
+# Computer Science Coursework
 **2018-2019 Data Structures & Algorithms (*Python*), 9th Grade.**<br/>
 *Selected Projects & Code.*<br/>
 Major Projects: Red-Black Tree, Edmonds-Karp<br/>
