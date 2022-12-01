@@ -1,7 +1,4 @@
 # Computer Science Coursework
-**2021-2022 Computer Systems Design (*HDL & Python*), 12th Grade.**<br/>
-*Complete Code.*<br/>
-Projects cannot be run without software & setup found at https://www.nand2tetris.org/software.<br/>
 
 **2020-2021 Project Studio: News Analytics (*Python*), 11th Grade.**<br/>
 *Complete Code.*<br/>
